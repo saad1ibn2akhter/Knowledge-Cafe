@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "cover": "https://example.com/cover_image1.jpg",
+      "title": "The Secret Garden",
+      "author": "Emily Smith",
+      "author_img": "https://example.com/author_image1.jpg",
+      "posted_date": "March 12, 2024",
+      "reading_time": 30,
+      "hashtags": ["#fiction", "#classics", "#gardens"]
+    },
+    {
+      "id": 2,
+      "cover": "https://example.com/cover_image2.jpg",
+      "title": "Beyond the Horizon",
+      "author": "John Doe",
+      "author_img": "https://example.com/author_image2.jpg",
+      "posted_date": "March 10, 2024",
+      "reading_time": 45,
+      "hashtags": ["#scifi", "#adventure", "#future"]
+    },
+    {
+      "id": 3,
+      "cover": "https://example.com/cover_image3.jpg",
+      "title": "Echoes of Eternity",
+      "author": "Sarah Johnson",
+      "author_img": "https://example.com/author_image3.jpg",
+      "posted_date": "March 8, 2024",
+      "reading_time": 60,
+      "hashtags": ["#fantasy", "#magic", "#epic"]
+    },
+    {
+      "id": 4,
+      "cover": "https://example.com/cover_image4.jpg",
+      "title": "The Art of Cooking",
+      "author": "Michael Anderson",
+      "author_img": "https://example.com/author_image4.jpg",
+      "posted_date": "March 6, 2024",
+      "reading_time": 40,
+      "hashtags": ["#cookbook", "#recipes", "#food"]
+    },
+    {
+      "id": 5,
+      "cover": "https://example.com/cover_image5.jpg",
+      "title": "Mindfulness in Daily Life",
+      "author": "Jane Miller",
+      "author_img": "https://example.com/author_image5.jpg",
+      "posted_date": "March 4, 2024",
+      "reading_time": 35,
+      "hashtags": ["#mindfulness", "#selfcare", "#wellness"]
+    }
+  ]
